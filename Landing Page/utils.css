@@ -1,0 +1,85 @@
+.min-h-screen{
+    min-height:100vh;
+    padding-left: 155px;
+    padding-right: 155px;
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+.font-bold{
+    font-weight: 900;
+}
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-size: 28px;
+    color: rgb(5, 69, 129);
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+    font-size: 18px;
+    color: rgb(20, 19, 19);
+}
+.my-3{
+    margin-top: 26px;
+    margin-bottom: 26px;
+    padding: 0 8vw;
+    text-align: center;
+    color: rgb(17, 16, 16);
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+.text-blue{
+    color: rgb(3, 63, 153);
+}
+.btn{
+    padding: 7px 12px ;
+    border: none;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    background-color: #1A4E87;
+    border-radius: 6px;
+}
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+.text-center{
+    text-align: center;
+}
+.btn1{
+    border: none;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    background-color: #1A4E87;
+    border-radius: 6px;
+    padding: 7px 12px ;
+    margin-left: 15px;
+    margin-right: 255px;
+}
